@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament concerning a late difference betweene some officers of the English and some of the Scottish nation, for the preservation of the peace and mutuall amity betweene both Kingdomes against the seditious speeches of some ill affected persons who seeke to raise it to a nationall quarrell : also an ordinance of both Houses, nominating and authorizing diverse persons in severall counties to bee added to the committees for the weekely assessment.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21921</idno><idno type="EEBO-CITATION">12184362</idno>
+  <idno type="VID">197122</idno>
+  <idno type="EEBO-PROQUEST">2240953574</idno>
+  
+            <idno type="STC">Wing E1357</idno>
+            <idno type="OCLC">12184362</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197122)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E94, no 4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament concerning a late difference betweene some officers of the English and some of the Scottish nation, for the preservation of the peace and mutuall amity betweene both Kingdomes against the seditious speeches of some ill affected persons who seeke to raise it to a nationall quarrell : also an ordinance of both Houses, nominating and authorizing diverse persons in severall counties to bee added to the committees for the weekely assessment.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 24, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197122:1"/>
+            <p> A DECLARATION Of the LORDS and COMMONS Assembled in Parliament: Concerning a late difference betweene some Officers of the English, and some of the Scottish Nation, for the preservation of the Peace, and mutuall Amity betweene both Kingdome<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, against the seditious speeches of some ill affected Persons who seeke to raise it to a Natio<g ref="char:EOLhyphen"/>nall Quarrell.</p>
+            <p>Also an Ordinance of both Houses, nominating and authorizing diverse persons in severall Counties, to bee added to the Committes for the weekely Assessement.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Jovis, 23 Martii, 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords and Commons Assembled in Parlia<g ref="char:EOLhyphen"/>ment, that this Declaration and Ordinance shall bee forth with Printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Browne Cler. Parliamentor.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON: March 24. Printed for John Wright, in the Old-Bailey. 1642.</p>
+            <pb facs="tcp:197122:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:197122:2"/>
+            <head>A DECLARATION Of the LORDS and COMMONS Assembled in PARLIAMENT.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Iovis,</hi> 23. <hi>Martii,</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons taking notice of a diffe<g ref="char:EOLhyphen"/>rence between some Offi<g ref="char:EOLhyphen"/>cers of the English and some of the Scottish Nation which is now under Examination; And being informed that some ill-affected Persons have given out seditious speeches, to heighten it to a Natio<g ref="char:EOLhyphen"/>nall quarrell, &amp; at this time (when
+<pb facs="tcp:197122:3"/> there is most need of Vniting the hearts and affections of the peo<g ref="char:EOLhyphen"/>ple of both Kingdomes, joyntly to defend and maintaine, the common cause of their Religion▪ and Liber<g ref="char:EOLhyphen"/>ties) to make a division and distra<g ref="char:EOLhyphen"/>ction between them, thereby to wea<g ref="char:EOLhyphen"/>ken and disable both, &amp; expose them and the cause to manifest Ruine &amp; destruction, The Lords and Com<g ref="char:EOLhyphen"/>mons have thought fit, hereby to declare their exceeding dislike of so mischievous a practise, and to pro<g ref="char:EOLhyphen"/>fesse unto the world their desire and care to preserve love, and a good a<g ref="char:EOLhyphen"/>greement betweene the two King<g ref="char:EOLhyphen"/>domes in generall, and the Sub<g ref="char:EOLhyphen"/>jects of either in particular; And doe further declare their resolution to be, to looke with an equall Eye of affection, and esteeme, upon such Officers and Souldiers of both Nations, as put themselves into the
+<pb facs="tcp:197122:3"/> Service of the King &amp; Parliament, and to make no difference betweene them, other then as any of them shall more or lesse deserve, by their paines and indeavours to advance the publike Service; And therefore they streightly charge and injoyne all persons, as well of the one as the other Nation, to forbeare all provo<g ref="char:EOLhyphen"/>cations of each other, and to conti<g ref="char:EOLhyphen"/>nue in mutuall love and friendship, without Resentment of any thing past to the disturbance of that peace and quiet which both Houses of Parliament so much desire to pre<g ref="char:EOLhyphen"/>serve, to this they expect all due Obedience, and will severely punish those that shall offend, as Incendia<g ref="char:EOLhyphen"/>ries and troublers of the peace be<g ref="char:EOLhyphen"/>tweene the two Kingdomes.</p>
+         </div>
+         <div type="declaration">
+            <pb facs="tcp:197122:4"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Martis</hi> 21 <hi>Martii,</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>WHereas in the Ordinance of both Houses for the raising of a weekely contribution, for the maintenance of the Army raised by the Parliament, the Names of diverse persons were omitted to be Com<g ref="char:EOLhyphen"/>mittees, for the Counties of <hi>Hertford, Kent, Norfolke, Somerset, Suffolke, Bedford, Sur<g ref="char:EOLhyphen"/>rey, Sussex, Dorset,</hi>
+            </p>
+            <p>Be it ordeined that Sir <hi>Iohn Garret,</hi> Baronet, Sir <hi>John Read,</hi> Baronet, <hi>Gravely Norton</hi> Esquire, Doctor <hi>John King</hi> Doctor in Physick shall bee added to the said Com<g ref="char:EOLhyphen"/>mittees, named for the said County of <hi>Hert<g ref="char:EOLhyphen"/>ford,</hi> and Sir <hi>Robert Honiwood,</hi> and Sir <hi>Peter Godfery</hi> Knights, <hi>Richard Browne, Robert Scot, William James,</hi> and <hi>Mark Dix<g ref="char:EOLhyphen"/>well</hi> Esquires, shall bee added to the said Committees, Named for the said County of <hi>Kent,</hi> and Sir <hi>Edward Barkham,</hi> Ba<g ref="char:EOLhyphen"/>ronet, added to the Committees Named for the County of <hi>Norfolke; Hugh Rogers, John Ash, John Pyne, Clement Walker,</hi> and <hi>Robert Blagh</hi> Esquires, shall be added to the Committees named for the said Coun<g ref="char:EOLhyphen"/>ty of <hi>Somerset,</hi> and Sir <hi>Edmund Bacon</hi> K and Baronet, Sir <hi>Butts Bacon,</hi> Baronet,
+<pb facs="tcp:197122:4"/> Sir <hi>Robert Btooke,</hi> Sir <hi>William Soames,</hi> Sir <hi>Edward Duke</hi> Knights, <hi>Brampton Gur<g ref="char:EOLhyphen"/>don, Wiseman Bokenham, Jsaac Apleton, Henry North</hi> Iunior, <hi>Robert Reynolds,</hi> Es<g ref="char:EOLhyphen"/>quires, <hi>Thomas Cole, Richard Pepys, N<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>thanael Bacon de Joswich, John Clinch</hi> Se<g ref="char:EOLhyphen"/>nior, <hi>John Clinch</hi> of <hi>Culphore, Nicholas Ri<g ref="char:EOLhyphen"/>vet</hi> of <hi>Dringsstone, Gibson Lucas</hi> Esquires, the Alderman of <hi>Bury</hi> St. <hi>Edmunds,</hi> and <hi>Tho. Chapman</hi> Esquire, shall be added to th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Committees for <hi>Suffolke; Thomas Johnso<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of <hi>Alborough,</hi> Gent. and Sir <hi>Thomas Al<g ref="char:EOLhyphen"/>ston,</hi> Knight and Baronet, Sir <hi>Roger Bur<g ref="char:EOLhyphen"/>goyn,</hi> Knight, <hi>Thomas Rolt, Humphrey Mo<g ref="char:EOLhyphen"/>nox, William Duncombe, John Vaux, Hum<g ref="char:EOLhyphen"/>phry Fishe, John Neale, Oliver Boteler,</hi> Es<g ref="char:EOLhyphen"/>quires, shall bee added to the Committees for the County of <hi>Bedford,</hi> and for the Town of <hi>Bedford,</hi> the Maior for the time being, and Doctor <hi>Banister,</hi> Doctor in Physick, and Sir <hi>Tho. Grimes,</hi> Sir <hi>Joh. Gresham,</hi> Sir <hi>John Lenthall,</hi> Sir <hi>John Maynard,</hi> Knights, <hi>Charles Hoskins, Edward Bish</hi> senior, <hi>Edward Bish</hi> junior, <hi>Edward Bagshaw, John White, Robert Goodwyn, John Turner, Edmund San<g ref="char:EOLhyphen"/>ders, Hermon Atwood,</hi> Esquires, shalbe ad<g ref="char:EOLhyphen"/>ded to the Committees named for the County of <hi>Surrey;</hi> and <hi>Richard Rose, Thomas Ceely, John Henley, William Sydenham</hi> Iunior, Es<g ref="char:EOLhyphen"/>quires, shall be added to the Committees na<g ref="char:EOLhyphen"/>med
+<pb facs="tcp:197122:5"/> for the County of <hi>Dorset;</hi> and Sir <hi>John Chapman</hi> Knight, <hi>Thomas Middleton, Ar<g ref="char:EOLhyphen"/>thur Fowte, Lawrence Ashburncham, Peter Farnden, John Basbridge, Stephen Humphty, Tho. Collins,</hi> Captaine <hi>Carleton,</hi> Captaine <hi>Everden, Edward Higgons, William C<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wley, Robert Spence,</hi> Esquires shall be added to the Committees for the County of <hi>Sussex.</hi> For the County of <hi>Norfolke; Sir Edward Barkham</hi> Baronet, <hi>Sir Thomas Gawdy, Sir Edward Ashley, Sir Tho. Gibbon;</hi> Knights, <hi>Tho. Russel, Ioh. Walpoole, Ro. Wilton, Rob. Jetemy, Io. Gibbon, Robert Sheppard, Phil. Calthrop</hi> Esquires.</p>
+            <p>Which Persons herein named shall bee Committees for the severall Counties afore<g ref="char:EOLhyphen"/>said, and shall have the same power and au<g ref="char:EOLhyphen"/>thority in the respective Counties for which they are nominated, as the other Committees therein named are thereby to have.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
